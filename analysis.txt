@@ -1,0 +1,8 @@
+computer : 2
+don't-shout : 1
+keyboard : 2
+mouse : 2
+niaz : 2
+
+total unique words: 5
+total words: 9
